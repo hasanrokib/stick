@@ -1,0 +1,193 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.floatright{
+    float: right;
+}
+.text-center{
+    text-align: center;
+    
+}
+.home{
+   height: 3600px;
+}
+.box{
+   margin-left:40px; 
+    position: relative;
+   
+}
+.box1{
+    position:absolute;
+   margin-top: -3600px;
+    
+}
+.header{
+ height: 960px;
+    background: #f5f6f7;
+    margin-top: -2850px;
+   margin-left: 10px;
+    width: 100%;
+    
+}
+.header_wrapper{
+ 
+   
+   
+    margin-top:-30px;
+    
+    
+}
+.text{
+
+    margin-left: 130px;
+    padding-top: 30px;
+    padding-left: 20px;
+     
+    
+}.textt{
+
+    margin-left: 10px;
+
+     
+    
+}
+h3{
+    color:#16a085;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    margin-top: 30px;
+}
+h2{
+    color:#16a085;
+}
+p{
+    line-height: 30px;
+    word-spacing: 3px;
+
+}
+.image{
+    height: 3700px;
+    margin-top: -900px;
+    padding-top: -130px;
+    margin-bottom: 30px;
+    width: 100%;
+   
+}
+.imagee{
+    margin-top: -3750px;
+    
+}
+.design{
+    height:600px;
+    background: white;
+   margin-top: -380px;
+    position: absolute;
+ width: 100%;
+    margin-left: 10px;
+}
+.design_wrapper{
+    
+    
+}
+.mobile{
+    margin-top: -1250px;
+    
+}
+.image_text{
+    
+    margin-top: -2200px;
+    margin-right:150px;
+}
+.angle{
+     margin-top: -3500px;
+  padding-left: 50px;
+}
+.manu{
+   
+    background: #f5f6f7;
+    margin-top: 100px;
+    position:absolute;
+    width: 100%;
+    height: 500px;
+    margin-left: 10px;
+}
+.manu_wrapper{
+
+    
+    
+}
+.maintain{
+
+}
+
+
+
+
+.pictureone{
+    width: 100px;
+   float: left;
+    margin-top: -1800px;
+margin-left: -30px;   
+   
+}
+.login{
+   
+    width: 100%; 
+  
+    margin-left:40px;
+}
+.logintext{
+    position:absolute;
+  margin-top: 2600px;
+    margin-left:450px; 
+    color: white;
+    word-spacing:10px;
+    
+}
+.loginpic{
+    position:sticky;
+    margin-top: -1700px;
+}
+.loginbox{
+    margin-top:-3600px;
+}
+
+.download{
+    
+    height: 400px;
+    width: auto;
+margin-top:-450px;
+    
+}
+.downloadtext{
+    margin-top: -200px;
+}
+.downloadpic{
+    width:100px;
+    margin-top: -3200px;
+
+}
+.downloadpicone{
+    margin-top: -3600px;
+}
+.footer{
+ 
+}
+.footertext{
+    
+}.footertext>ul{
+    list-style: none;
+    
+}.footertext>ul>li{
+    display: inline;
+    margin-right: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.footerlogo{
+    margin-top: -2050px;
+    margin-left: 900px;
+    
+}
